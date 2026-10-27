@@ -1,0 +1,581 @@
+
+{
+    "data": {
+        "filters": {
+            "ram": 12,
+            "storage": 256,
+            "mainCamera": 200,
+            "frontCamera": 50,
+            "battery": 9000,
+            "display": 6.78
+        },
+        "_id": "6adf615646e15dd37540792f",
+        "slug": "oneplus-16",
+        "name": "OnePlus 16",
+        "brand": {
+            "_id": "6adf5c3d46e15dd37540792e",
+            "name": "OnePlus",
+            "slug": "oneplus"
+        },
+        "price": 130000,
+        "marketStatus": "Available",
+        "data": {
+            "phone": {
+                "name": "OnePlus 16",
+                "image": "/images/phones/mob.webp",
+                "marketStatus": "Available",
+                "releaseDate": "12-Oct-2026",
+                "brand": "OnePlus",
+                "price": 130000,
+                "priceStatus": "Unofficial",
+                "score": 88,
+                "variant": "12GB+256GB",
+                "variantRegion": "CN",
+                "variantPrice": 130000,
+                "updatedAt": "22 Oct, 2026",
+                "imageCount": 6,
+                "colorCount": 3
+            },
+            "highlights": {
+                "phoneName": "OnePlus 16",
+                "text": "OnePlus 16 Price in Bangladesh"
+            },
+            "quickSpecifications": [
+                {
+                    "label": "Storage",
+                    "value": "256GB"
+                },
+                {
+                    "label": "RAM",
+                    "value": "12GB"
+                },
+                {
+                    "label": "Main Camera",
+                    "value": "200+50+50MP"
+                },
+                {
+                    "label": "Front Camera",
+                    "value": "50MP"
+                },
+                {
+                    "label": "Display",
+                    "value": "6.78\" 1272x2772p"
+                },
+                {
+                    "label": "Battery",
+                    "value": "Li-Ion 9000mAh"
+                }
+            ],
+            "operatingSystem": "Android",
+            "features": [
+                "On-screen",
+                "100W Fast Charging",
+                "Waterproof, IP68/IP69K",
+                "Wi-Fi 7 (5G)",
+                "Crystal Shield Glass",
+                "Bluetooth 6.0"
+            ],
+            "fullSpecificationPreview": [
+                {
+                    "label": "Operating System",
+                    "value": "Android"
+                },
+                {
+                    "label": "Storage",
+                    "value": "256GB"
+                },
+                {
+                    "label": "RAM",
+                    "value": "12GB"
+                },
+                {
+                    "label": "Main Camera",
+                    "value": "200MP + 50MP + 50MP"
+                },
+                {
+                    "label": "Front Camera",
+                    "value": "50MP"
+                },
+                {
+                    "label": "Display",
+                    "value": "6.78\""
+                },
+                {
+                    "label": "Battery",
+                    "value": "9000mAh"
+                },
+                {
+                    "label": "Fast Charging",
+                    "value": "100W"
+                },
+                {
+                    "label": "Connectivity",
+                    "value": "Wi-Fi 7, Bluetooth 6.0"
+                }
+            ],
+            "bannerColorOptions": [
+                "Silver",
+                "Black",
+                "Blue"
+            ],
+            "specificationGroups": [
+                {
+                    "title": "General",
+                    "items": [
+                        {
+                            "label": "Brand",
+                            "value": "OnePlus"
+                        },
+                        {
+                            "label": "Model",
+                            "value": "16"
+                        },
+                        {
+                            "label": "Device Type",
+                            "value": "Smartphone"
+                        },
+                        {
+                            "label": "Release Date",
+                            "value": "12 October 2026"
+                        },
+                        {
+                            "label": "Status",
+                            "value": "Available",
+                            "status": true
+                        }
+                    ]
+                },
+                {
+                    "title": "Hardware & Software",
+                    "score": 9,
+                    "items": [
+                        {
+                            "label": "Operating System",
+                            "value": "Android"
+                        },
+                        {
+                            "label": "OS Version",
+                            "value": "v17"
+                        },
+                        {
+                            "label": "User Interface",
+                            "value": "OxygenOS 17"
+                        },
+                        {
+                            "label": "Chipset",
+                            "value": "Qualcomm SM8975 Snapdragon 8 Elite Extreme Gen 6"
+                        },
+                        {
+                            "label": "CPU",
+                            "value": "Octa-core (2x5.01 GHz Prime + 3x4.03 GHz Performance + 3x3.74 GHz Performance)"
+                        },
+                        {
+                            "label": "CPU Cores",
+                            "value": "8 Cores"
+                        },
+                        {
+                            "label": "Architecture",
+                            "value": "64 bit"
+                        },
+                        {
+                            "label": "Fabrication",
+                            "value": "2 nm"
+                        }
+                    ]
+                },
+                {
+                    "title": "Cameras",
+                    "score": 9,
+                    "subgroups": [
+                        {
+                            "title": "Primary Camera",
+                            "items": [
+                                {
+                                    "label": "Camera Setup",
+                                    "value": "Triple"
+                                },
+                                {
+                                    "label": "Resolution",
+                                    "value": "200 MP, f/1.6, Wide Angle, Primary Camera, 50 MP, f/2.6, Telephoto Camera, 50 MP, f/2.0, Ultra-Wide Angle Camera"
+                                },
+                                {
+                                    "label": "Autofocus",
+                                    "value": "Yes",
+                                    "status": true
+                                },
+                                {
+                                    "label": "OIS",
+                                    "value": "Yes"
+                                },
+                                {
+                                    "label": "Flash",
+                                    "value": "LED Flash",
+                                    "status": true
+                                },
+                                {
+                                    "label": "Image Resolution",
+                                    "value": "16000 x 12500 Pixels"
+                                },
+                                {
+                                    "label": "Settings",
+                                    "value": "Exposure compensation, ISO control"
+                                },
+                                {
+                                    "label": "Zoom",
+                                    "value": "120x Digital Zoom"
+                                },
+                                {
+                                    "label": "Shooting Modes",
+                                    "value": "Continuous Shooting, High Dynamic Range mode (HDR)"
+                                },
+                                {
+                                    "label": "Aperture",
+                                    "value": "f/1.6"
+                                },
+                                {
+                                    "label": "Camera Features",
+                                    "value": "Auto Flash, Face detection, Touch to focus, Videos, Portraits, Night Scenes, Panoramics, Slow Motion, Long Exposure, Time-lapse Photography, Cute Animations, High-Resolution Cameras, Underwater Cameras, Master Cameras, AI ID Photos, Super Text, Scan"
+                                },
+                                {
+                                    "label": "Video Recording",
+                                    "value": "7680x4320, 3840x2160, 1920x1080"
+                                },
+                                {
+                                    "label": "Video FPS",
+                                    "value": "30 fps, 60 fps, 120 fps"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Selfie Camera",
+                            "items": [
+                                {
+                                    "label": "Camera Setup",
+                                    "value": "Single"
+                                },
+                                {
+                                    "label": "Resolution",
+                                    "value": "50 MP, f/2.0, Wide Angle Camera"
+                                },
+                                {
+                                    "label": "Video Recording",
+                                    "value": "3840x2160, 1920x1080"
+                                },
+                                {
+                                    "label": "Video FPS",
+                                    "value": "30 fps, 60 fps"
+                                },
+                                {
+                                    "label": "Aperture",
+                                    "value": "f/2.0"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Design",
+                    "score": 9,
+                    "items": [
+                        {
+                            "label": "Height",
+                            "value": "161.42 mm"
+                        },
+                        {
+                            "label": "Width",
+                            "value": "76.67 mm"
+                        },
+                        {
+                            "label": "Thickness",
+                            "value": "8.55 mm (Silver), 8.45 mm (Orange), 8.50 mm (Black)"
+                        },
+                        {
+                            "label": "Weight",
+                            "value": "220 grams (Silver, Black), 217 grams (Orange)"
+                        },
+                        {
+                            "label": "Build",
+                            "value": "Glass front (Crystal Shield Glass), aluminum frame, glass back (Crystal Shield Glass) or glass-fiber reinforced plastic back"
+                        },
+                        {
+                            "label": "Colors",
+                            "value": "Silver, Orange, Black"
+                        },
+                        {
+                            "label": "Waterproof",
+                            "value": "Water resistant (up to 2m for 30 min)",
+                            "status": true
+                        },
+                        {
+                            "label": "IP Rating",
+                            "value": "IP68/IP69K"
+                        },
+                        {
+                            "label": "Ruggedness",
+                            "value": "Dust proof"
+                        }
+                    ]
+                },
+                {
+                    "title": "Battery",
+                    "score": 9,
+                    "items": [
+                        {
+                            "label": "Battery type",
+                            "value": "Li-Ion (Lithium Ion)"
+                        },
+                        {
+                            "label": "Capacity",
+                            "value": "9000 mAh"
+                        },
+                        {
+                            "label": "Wireless Charging",
+                            "value": "50W wireless"
+                        },
+                        {
+                            "label": "Quick Charging",
+                            "value": "100W wired, 44/100W UFCS, 55W PPS, 18W PD/QC",
+                            "status": true
+                        },
+                        {
+                            "label": "Reverse Charging",
+                            "value": "5W reverse wired"
+                        },
+                        {
+                            "label": "Placement",
+                            "value": "Non-removable"
+                        },
+                        {
+                            "label": "USB Type-C",
+                            "value": "USB Type-C 3.2 Gen 1"
+                        }
+                    ]
+                },
+                {
+                    "title": "Memory",
+                    "score": 8,
+                    "items": [
+                        {
+                            "label": "Internal Storage",
+                            "value": "256 GB"
+                        },
+                        {
+                            "label": "Storage Type",
+                            "value": "UFS 4.1"
+                        },
+                        {
+                            "label": "USB OTG",
+                            "value": "Yes"
+                        },
+                        {
+                            "label": "RAM",
+                            "value": "12 GB"
+                        },
+                        {
+                            "label": "RAM Type",
+                            "value": "LPDDR5X Ultra"
+                        }
+                    ]
+                },
+                {
+                    "title": "Network & Connectivity",
+                    "items": [
+                        {
+                            "label": "Network",
+                            "value": "2G, 3G, 4G, 5G"
+                        },
+                        {
+                            "label": "SIM Slot",
+                            "value": "Dual SIM, GSM+GSM"
+                        },
+                        {
+                            "label": "SIM Size",
+                            "value": "SIM1: Nano, SIM2: Nano"
+                        },
+                        {
+                            "label": "EDGE",
+                            "value": "Available"
+                        },
+                        {
+                            "label": "GPRS",
+                            "value": "Available"
+                        },
+                        {
+                            "label": "VoLTE",
+                            "value": "Yes",
+                            "status": true
+                        },
+                        {
+                            "label": "Speed",
+                            "value": "HSPA, LTE, 5G"
+                        },
+                        {
+                            "label": "WLAN",
+                            "value": "Wi-Fi 7 (802.11 a/b/g/n/ac/be/ax) 5GHz, MIMO"
+                        },
+                        {
+                            "label": "Bluetooth",
+                            "value": "v6.0"
+                        },
+                        {
+                            "label": "GPS",
+                            "value": "Yes with A-GPS, Glonass"
+                        },
+                        {
+                            "label": "Infrared",
+                            "value": "Yes"
+                        },
+                        {
+                            "label": "Wi-fi Hotspot",
+                            "value": "Yes"
+                        },
+                        {
+                            "label": "NFC",
+                            "value": "Yes"
+                        },
+                        {
+                            "label": "USB",
+                            "value": "Mass storage device, USB charging"
+                        }
+                    ]
+                },
+                {
+                    "title": "Sensors & security",
+                    "items": [
+                        {
+                            "label": "Light Sensor",
+                            "value": "Light sensor, Proximity sensor, Accelerometer, Compass, Gyroscope"
+                        },
+                        {
+                            "label": "Fingerprint Sensor",
+                            "value": "Yes",
+                            "status": true
+                        },
+                        {
+                            "label": "Finger Sensor Position",
+                            "value": "On-screen"
+                        },
+                        {
+                            "label": "Finger Sensor Type",
+                            "value": "Ultrasonic"
+                        },
+                        {
+                            "label": "Face Unlock",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "title": "Multimedia",
+                    "items": [
+                        {
+                            "label": "Loudspeaker",
+                            "value": "Dual Speakers"
+                        },
+                        {
+                            "label": "Audio Jack",
+                            "value": "USB Type-C"
+                        },
+                        {
+                            "label": "Video",
+                            "value": "8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, HDR, gyro-EIS, Dolby Vision, LUT"
+                        }
+                    ]
+                },
+                {
+                    "title": "More",
+                    "items": [
+                        {
+                            "label": "Made By",
+                            "value": "China"
+                        },
+                        {
+                            "label": "Features",
+                            "value": "Accelerometer, proximity, gyro (UAV-grade), compass, barometer"
+                        }
+                    ]
+                }
+            ],
+            "productInfo": {
+                "title": "OnePlus 16 Price in Bangladesh 2026 & Release Date",
+                "rows": [
+                    {
+                        "label": "Name",
+                        "value": "OnePlus 16"
+                    },
+                    {
+                        "label": "Unofficial Price",
+                        "value": "BDT. 130,000.00"
+                    },
+                    {
+                        "label": "Release Date",
+                        "value": "12-Oct-2026"
+                    },
+                    {
+                        "label": "Market Status",
+                        "value": "Available"
+                    },
+                    {
+                        "label": "Variant",
+                        "value": "12GB+256GB CN"
+                    }
+                ]
+            },
+            "reviews": {
+                "title": "OnePlus 16 User Rating & Review",
+                "initialAverageRating": 0,
+                "initialRatingCount": 0,
+                "initialReviewCount": 0,
+                "sentimentStats": [
+                    {
+                        "label": "Positive",
+                        "count": 0,
+                        "percentage": 0,
+                        "color": "bg-emerald-500"
+                    },
+                    {
+                        "label": "Mixed",
+                        "count": 0,
+                        "percentage": 0,
+                        "color": "bg-amber-400"
+                    },
+                    {
+                        "label": "Negative",
+                        "count": 0,
+                        "percentage": 0,
+                        "color": "bg-red-500"
+                    }
+                ],
+                "reviewFields": [
+                    {
+                        "id": "name",
+                        "label": "Your Name",
+                        "type": "text"
+                    },
+                    {
+                        "id": "email",
+                        "label": "Your Email",
+                        "type": "email"
+                    },
+                    {
+                        "id": "title",
+                        "label": "Review Title",
+                        "type": "text"
+                    },
+                    {
+                        "id": "review",
+                        "label": "Review Text",
+                        "type": "textarea"
+                    }
+                ],
+                "reviewFormTitle": "BE THE FIRST TO ADD A REVIEW",
+                "reviewFormGuidance": "Please post a user review only if you have / had this product.",
+                "reviewFormInitialRating": 3,
+                "inlineReviewFormInitialRating": 0
+            }
+        },
+        "createdAt": "2026-10-26T14:19:02.593Z",
+        "updatedAt": "2026-10-26T14:19:02.593Z",
+        "__v": 0
+    }
+}

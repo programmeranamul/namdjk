@@ -1,0 +1,152 @@
+# ==========================================
+# Operating System Files
+# ==========================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.Trashes
+VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.lnk
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+lnk
+[Dd]ownloads/
+$RECYCLE.BIN/
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.trash/
+.nfs*
+
+# ==========================================
+# IDEs and Editors
+# ==========================================
+# Visual Studio Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+!.vscode/settings.json
+*.code-workspace
+.history/
+
+# IntelliJ / JetBrains
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Eclipse
+.metadata
+.classpath
+.project
+.settings/
+*.launch
+
+# NetBeans
+**/nbproject/private/
+**/nbbuild/
+**/dist/
+**/nbdist/
+/.netbeans_subproject/
+
+# ==========================================
+# Programming Languages & Frameworks
+# ==========================================
+# Node.js / JavaScript
+node_modules/
+/jspm_packages/
+.npm
+.eslintcache
+.stylelintcache
+.next/
+.nuxt/
+.vuepress/dist
+/dist
+/build
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.mo
+*.pot
+.scrapy
+.pytest_cache/
+
+# Java
+*.class
+*.log
+*.ctxt
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+target/
+.gradle/
+build/
+
+# ==========================================
+# Sensitive Data, Logs, and Build Artifacts
+# ==========================================
+# Credentials and Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+*.secret
+*.crypto
+
+# Logs
+*.log
+logs
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Databases and Dumps
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+*.dump
